@@ -34,6 +34,6 @@ java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip f
 
 I also tried 'System.loadLibrary("ndksample_d");'.Same log output.
 
-I'm sure the POSTFIX is the problem because the release version work well.
+I make sure the POSTFIX is the problem because the release version work well.
 
 
