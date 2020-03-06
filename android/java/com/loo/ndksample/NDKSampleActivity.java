@@ -6,9 +6,10 @@ import android.os.Bundle;
 
 public class NDKSampleActivity extends NativeActivity {
 
+
     static {
         // Load native library
-        System.loadLibrary("ndksample");
+        System.loadLibrary(BuildConfig.DEBUG?"ndksample_d":"ndksample");
     }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
