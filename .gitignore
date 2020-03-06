@@ -1,0 +1,10 @@
+/.vscode
+/android_gradle/.idea
+/android_gradle/build
+/android_gradle/build-native
+/android_gradle/gradle
+/android_gradle/gradlew
+/android_gradle/gradlew.bat
+/android_gradle/local.properties
+/android_gradle/ndksample.iml
+/android_gradle/.gradle

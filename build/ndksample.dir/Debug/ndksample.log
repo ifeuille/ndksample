@@ -1,0 +1,4 @@
+﻿  Building Custom Rule E:/git/mine/loo/ndksample/CMakeLists.txt
+  CMake does not need to re-run because E:/git/mine/loo/ndksample/build/CMakeFiles/generate.stamp is up-to-date.
+  main.cpp
+  ndksample.vcxproj -> E:\git\mine\loo\ndksample\build\Debug\ndksample_d.exe

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<string name="app_name">NDK Sample</string>
+	<string name="channel_name">vkb_channel</string>
+	<string name="channel_desc">NDK Sample</string>
+	<string name="native_lib_name">ndksample</string>
+	<string name="permissions_text">Permission to access files is required to load assets</string>
+
+</resources>
